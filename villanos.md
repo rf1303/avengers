@@ -3,6 +3,6 @@
 
 * Doom
 * Red Skull
-
+* Magneto
 
 
